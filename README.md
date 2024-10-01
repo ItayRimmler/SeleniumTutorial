@@ -7,3 +7,5 @@ and try to adjust them so they'll be in the same tempo).
 Unfortunetly, FindElements did not work properly. So the script simply plays one song.
 
 I learned it and did it in one day. So I think it's kinda cool.
+
+Archived because it filled it's purpose of teaching me Selenium
